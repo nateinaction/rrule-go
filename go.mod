@@ -1,3 +1,3 @@
-module github.com/teambition/rrule-go
+module github.com/nateinaction/rrule-go
 
 go 1.14
